@@ -7,10 +7,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nkmin)](https://solved.ac/nkmin/)
 
 <a href="mailto:kangmin3374@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" onclick="location.href='mailto:your_email@gmail.com';">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" style="cursor: pointer;" onclick="window.location.href = 'mailto:your_email@gmail.com';">
 </a>
-
-
 
 ### Contact
 
