@@ -4,7 +4,7 @@
 ### SOLVED.AC
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nkm5246)](https://solved.ac/nkm5246/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nkmin)](https://solved.ac/nkmin/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nkmin)](https://solved.ac/nkmin/)
 
 ### Contact
 
