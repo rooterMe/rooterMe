@@ -6,7 +6,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nkm5246)](https://solved.ac/nkm5246/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nkmin)](https://solved.ac/nkmin/)
 
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:kangmin3374@gmail.com">
   <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
 </a>
 
