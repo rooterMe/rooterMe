@@ -6,7 +6,11 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nkm5246)](https://solved.ac/nkm5246/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nkmin)](https://solved.ac/nkmin/)
 
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+<a href="mailto:your_email@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
+</a>
+
+
 ### Contact
 
 <div style="display:flex; flex-direction:row;">
