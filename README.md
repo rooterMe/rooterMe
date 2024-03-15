@@ -30,4 +30,4 @@
 <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
 </p>
 
-<a href="url"><img src="https://img.shields.io/badge/GMAIL-EA4335??style=flat-square&logo=Gmail&logoColor=white&link=mailto:kangmin3374@gmail.com"/></a>&nbsp
+<a href="url"><img src="https://img.shields.io/badge/GMAIL-EA4335??style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kangmin3374@gmail.com"/></a>&nbsp
