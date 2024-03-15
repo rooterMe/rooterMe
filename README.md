@@ -6,28 +6,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nkm5246)](https://solved.ac/nkm5246/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nkmin)](https://solved.ac/nkmin/)
 
-<a href="mailto:kangmin3374@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" style="cursor: pointer;" onclick="window.location.href = 'mailto:your_email@gmail.com';">
-</a>
-
 ### Contact
 
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:kangmin3374@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://www.instagram.com/n.k.min_">
-        <img src="https://img.shields.io/badge/
-        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-
-<p>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
-</p>
-
-<a href="url"><img src="https://img.shields.io/badge/GMAIL-EA4335??style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kangmin3374@gmail.com"/></a>&nbsp
+GMAIL : kangmin3374@gamil.com
