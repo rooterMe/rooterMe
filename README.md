@@ -9,4 +9,4 @@
 
 ### Contact
 
-GMAIL : kangmin3374@gamil.com
+MAIL : kangmin3374@gamil.com
