@@ -15,7 +15,7 @@
 
 > #### [AI model](https://github.com/nkmin0/2025_CANSAT_AI)
 
-### 2025 Science Fair
+### 2025 Chungbuk Science Exhibition
 
 #### ???
 
