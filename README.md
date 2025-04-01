@@ -15,7 +15,7 @@
 
 ### 2025 Chungbuk Science Exhibition
 
-> #### ???
+> #### GeoARt?
 
 ## Contact
 
