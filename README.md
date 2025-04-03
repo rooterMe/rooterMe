@@ -9,9 +9,9 @@
 
 ## Work in Progress
 ### 2025 CANSAT Competition Korea
-> #### [Flight Software](https://github.com/nkmin0/2025_CANSAT_FSW)
-> #### [Ground Station](https://github.com/nkmin0/2025_CANSAT_GS)
-> #### [AI model](https://github.com/nkmin0/2025_CANSAT_AI)
+> #### [Flight Software](https://github.com/rooterMe/2025_CANSAT_FSW)
+> #### [Ground Station](https://github.com/rooterMe/2025_CANSAT_GS)
+> #### [AI model](https://github.com/rooterMe/2025_CANSAT_AI)
 
 ### 71st Chungbuk Science Exhibition
 
