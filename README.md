@@ -13,11 +13,11 @@
 > #### [Ground Station](https://github.com/nkmin0/2025_CANSAT_GS)
 > #### [AI model](https://github.com/nkmin0/2025_CANSAT_AI)
 
-### 2025 Chungbuk Science Exhibition
+### 71st Chungbuk Science Exhibition
 
 > #### GeoARt?
 
-### 2025 KCC (Korea Computer Congress)
+### KCC 2025 (Korea Computer Congress)
 
 > #### ???
 
