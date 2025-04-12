@@ -1,5 +1,6 @@
-<!--![header](https://capsule-render.vercel.app/api?type=rect&height=300&color=black&text=NKMIN&fontAlignY=47&fontAlign=50&section=header&reversal=false&fontColor=FFFFFF&textBg=false&fontSize=100&animation=twinkling&desc=happy%20coding&descAlign=60&strokeWidth=1&stroke=616161)-->
-
+<!--
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&color=black&text=rooterMe&fontAlignY=47&fontAlign=50&section=header&reversal=false&fontColor=FFFFFF&textBg=false&fontSize=100&animation=twinkling&desc=happy%20coding&descAlign=60&strokeWidth=1&stroke=616161)
+-->
 
 ## SOLVED.AC
 
@@ -19,7 +20,7 @@
 
 ### KCC 2025 (Korea Computer Congress)
 
-> #### ???
+> #### [BANANA?](https://github.com/rooterMe/2025_BANANA)
 
 ## Contact
 
