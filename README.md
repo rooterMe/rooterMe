@@ -13,10 +13,12 @@
 > #### [Flight Software](https://github.com/rooterMe/2025_CANSAT_FSW)
 > #### [Ground Station](https://github.com/rooterMe/2025_CANSAT_GS)
 > #### [AI model](https://github.com/rooterMe/2025_CANSAT_AI)
-
+> 
+<!--
 ### 71st Chungbuk Science Exhibition
 
 > #### GeoARt?
+-->
 
 ### KCC 2025 (Korea Computer Congress)
 
