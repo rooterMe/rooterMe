@@ -20,10 +20,6 @@
 > #### GeoARt?
 -->
 
-### KCC 2025 (Korea Computer Congress)
-
-> #### [BANANA?](https://github.com/rooterMe/2025_BANANA)
-
 ## Contact
 
 MAIL : rooterme07@gamil.com
