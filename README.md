@@ -1,6 +1,10 @@
 <!--
 ![header](https://capsule-render.vercel.app/api?type=rect&height=200&color=black&text=rooterMe&fontAlignY=47&fontAlign=50&section=header&reversal=false&fontColor=FFFFFF&textBg=false&fontSize=100&animation=twinkling&desc=happy%20coding&descAlign=60&strokeWidth=1&stroke=616161)
 -->
+## rooterMe
+CBSH 35
+
+PS → AI
 
 ## SOLVED.AC
 
@@ -13,13 +17,11 @@
 > #### [Flight Software](https://github.com/rooterMe/2025_CANSAT_FSW)
 > #### [Ground Station](https://github.com/rooterMe/2025_CANSAT_GS)
 > #### [AI model](https://github.com/rooterMe/2025_CANSAT_AI)
-> 
-<!--
-### 71st Chungbuk Science Exhibition
+>
+### KCC 2025
+> #### [Flight Software](https://github.com/rooterMe/2025_BANANA)
 
-> #### GeoARt?
--->
 
 ## Contact
 
-MAIL : rooterme07@gamil.com
+MAIL : kangmin3374@gamil.com
