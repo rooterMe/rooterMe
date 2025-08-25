@@ -19,7 +19,7 @@ PS → AI
 > #### [AI model](https://github.com/rooterMe/2025_CANSAT_AI)
 >
 ### KCC 2025
-> #### [Flight Software](https://github.com/rooterMe/2025_BANANA)
+> #### [Banana](https://github.com/rooterMe/2025_BANANA)
 
 
 ## Contact
