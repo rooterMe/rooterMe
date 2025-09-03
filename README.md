@@ -6,6 +6,8 @@ CBSH 35
 
 PS → AI
 
+<img src="https://img.shields.io/badge/gmail-#EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+
 ## SOLVED.AC
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nkm5246)](https://solved.ac/profile/nkm5246/)
