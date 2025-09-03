@@ -5,7 +5,7 @@
 
 💻 PS, AI
 
-🏫 Chunbuk Science High School (2023~2025)
+🏫 Chungbuk Science High School (2023~2025)
 
 📧 kangmin3374@gmail.com
 
