@@ -14,9 +14,9 @@
 
 ## Paper
 
-ResNet-LSTM based Position·Attitude Estimation Method for Optical Navigation System of CanSat - Cheolsoon Han, Minjun Jee, Kangmin Ra - 2024.11
+Cheolsoon Han, Minjun Jee, Kangmin Ra. "ResNet-LSTM based Position·Attitude Estimation Method for Optical Navigation System of CanSat". (2024.11)
 
-Prediction of Banana Freshness Using an Encoder-Decoder LSTM Model with Explainable AI (XAI) - Woohyun Park, Kangmin Ra, Gyumin Kim - KIISE, KCC 2025 - 2025.7
+Woohyun Park, Kangmin Ra, Gyumin Kim. "Prediction of Banana Freshness Using an Encoder-Decoder LSTM Model with Explainable AI (XAI)". (2025.7)
 
 ## My project
 ### 2025 CANSAT Competition Korea
