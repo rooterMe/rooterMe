@@ -9,7 +9,9 @@
 
 🏫 Chungbuk Science High School (2023~2025)
 
-📧 kangmin3374@gmail.com
+🏫 KAIST SSE (2026~)
+
+📧 rooterme@kaist.ac.kr
 
 
 ## Paper
@@ -18,11 +20,6 @@ Cheolsoon Han, Minjun Jee, **Kangmin Ra**. "ResNet-LSTM based Position·Attitude
 
 Woohyun Park, **Kangmin Ra**, Gyumin Kim. "Prediction of Banana Freshness Using an Encoder-Decoder LSTM Model with Explainable AI (XAI)". (2025.7)
 
-## My project
-### 2025 CANSAT Competition Korea
-> #### [Flight Software](https://github.com/rooterMe/2025_CANSAT_FSW)
-> #### [Ground Station](https://github.com/rooterMe/2025_CANSAT_GS)
-> #### [AI model](https://github.com/rooterMe/2025_CANSAT_AI)
->
-### KCC 2025
-> #### [Banana](https://github.com/rooterMe/2025_BANANA)
+## project
+### [2025 CANSAT Competition Korea](https://github.com/rooterMe/2025_CANSAT_FSW)
+### [KCC 2025](https://github.com/rooterMe/2025_BANANA)
