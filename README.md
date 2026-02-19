@@ -23,3 +23,6 @@ Woohyun Park, **Kangmin Ra**, Gyumin Kim. "Prediction of Banana Freshness Using 
 ## project
 ### [2025 CANSAT Competition Korea](https://github.com/rooterMe/2025_CANSAT_FSW)
 ### [KCC 2025](https://github.com/rooterMe/2025_BANANA)
+
+## SOLVED.AC
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nkm5246)](https://solved.ac/profile/nkm5246/)
