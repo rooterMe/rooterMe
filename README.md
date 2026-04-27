@@ -5,7 +5,7 @@
 -->
 # rooterMe
 
-💻 PS, AI
+💻 SW, AI
 
 🏫 Chungbuk Science High School (2023~2025)
 
@@ -25,5 +25,7 @@ Woohyun Park, **Kangmin Ra**, Gyumin Kim. "Prediction of Banana Freshness Using 
 ### [KCC 2025](https://github.com/rooterMe/2025_BANANA)
 ### [JUTOfilm](https://github.com/wooyong8969/2025JUTOfilm)
 
+<!--
 ## SOLVED.AC
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nkm5246)](https://solved.ac/profile/nkm5246/)
+-->
