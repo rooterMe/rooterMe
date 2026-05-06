@@ -3,7 +3,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nkm5246)](https://solved.ac/profile/nkm5246/)
 -->
-# rooterMe
+# Hi there 👋
 
 💻 SW, AI
 
@@ -21,9 +21,26 @@ Cheolsoon Han, Minjun Jee, **Kangmin Ra**. "ResNet-LSTM based Position·Attitude
 Woohyun Park, **Kangmin Ra**, Gyumin Kim. "Prediction of Banana Freshness Using an Encoder-Decoder LSTM Model with Explainable AI (XAI)". (2025.7)
 
 ## project
-### [2025 CANSAT Competition Korea](https://github.com/rooterMe/2025_CANSAT_FSW)
-### [KCC 2025](https://github.com/rooterMe/2025_BANANA)
-### [JUTOfilm](https://github.com/wooyong8969/2025JUTOfilm)
+### 2026
+
+---
+
+#### 2025
+[2025 CANSAT Competition Korea](https://github.com/rooterMe/2025_CANSAT_FSW)
+
+[KCC 2025](https://github.com/rooterMe/2025_BANANA)
+
+[JUTOfilm](https://github.com/wooyong8969/2025JUTOfilm)
+
+#### 2024
+
+[2024 CANSAT Competition Korea](https://github.com/rooterMe/2024_CANSAT)
+
+[70th Chungbuk Science Exhibition](https://github.com/rooterMe/2024_GEP)
+
+[Makers](https://github.com/rooterMe/2024_KIOSK)
+
+[동아리 교육 기부](https://github.com/rooterMe/2024_Motion2Game)
 
 <!--
 ## SOLVED.AC
