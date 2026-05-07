@@ -11,6 +11,8 @@ I am an undergraduate student majoring in **SSE** at **KAIST**.
 
 I am interested in **Computer Vision** and **Reinforcement Learning**.
 
+![Mail](https://img.shields.io/badge/-rooterme%40kaist.ac.kr-001F3F?style=flat-square&logo=gmail&logoColor=white&labelColor=555555)
+
 <br/>
 
 </div>
@@ -40,11 +42,6 @@ I am interested in **Computer Vision** and **Reinforcement Learning**.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 <br/>
-
-
-## 📧 Contact
-
-rooterme@kaist.ac.kr
 
 ## 📝 Paper
 
