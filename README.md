@@ -5,25 +5,42 @@
 -->
 # Hi there 👋
 
-💻 SW, AI
+<div align="center">
 
-🏫 Chungbuk Science High School (2023~2025)
+I am an undergraduate student majoring in **SSE** at **KAIST**.
 
-🏫 KAIST SSE (2026~)
+I am interested in **Computer Vision** and **Reinforcement Learning**.
 
-📧 rooterme@kaist.ac.kr
+<br/>
 
+</div>
 
-## Paper
+## 🛠 Tech Stack 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+<br/>
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<br/>
+
+## 📧 Contact
+
+rooterme@kaist.ac.kr
+
+## 📝 Paper
 
 Cheolsoon Han, Minjun Jee, **Kangmin Ra**. "ResNet-LSTM based Position·Attitude Estimation Method for Optical Navigation System of CanSat". (2024.11)
 
 Woohyun Park, **Kangmin Ra**, Gyumin Kim. "Prediction of Banana Freshness Using an Encoder-Decoder LSTM Model with Explainable AI (XAI)". (2025.7)
 
-## project
-### 2026
-
----
+## 🖥️ project
 
 #### 2025
 [2025 CANSAT Competition Korea](https://github.com/rooterMe/2025_CANSAT_FSW)
